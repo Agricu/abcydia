@@ -1,0 +1,8 @@
+Architectures: iphoneos-arm
+Codename: cn.agricu
+Components: main
+Description: Abcydia's backup Repo
+Label: Abcydia's backup Repo
+Origin: Abcydia's backup Repo
+Suite: stable
+Version: 1.0
